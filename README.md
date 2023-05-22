@@ -1,1 +1,7 @@
-# pintofscience
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Bibliographie Workshop 2023 Créateur de contenu</h1>
+<p>A définir</p>
+</body>
+</html>
