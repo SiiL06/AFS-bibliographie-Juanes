@@ -10,6 +10,7 @@
 <p>Drucker S.M., He L., Cohen M., Wong C. et Gupta A. (2003). « Spectator Games: A New Entertainment Modality For Networked Multiplayer Games », Microsoft Research, 7 pages.</p>
 <p>Flichy, P. (2001). L’imaginaire d’Internet, Paris, La Découverte.</p>
 <p>Flichy, P. (2019). « Le travail sur plateforme », Reseaux, vol. n° 213, n°1, pp. 173‑209.</p>
+<p>Mediamétrie (2019). « Les pratiques culturelles en ligne des 8-14 ans », Ministère de la Culture, Rapport, 92 pages.</p>
 <p>Hughes, E. (1997). Le Regard sociologique. Essais choisis, Paris, Éd. de l’EHESS, Recherches d’histoire et de sciences sociales, 175 pages.</p>
 <p>Letourneux, F. (2020). « Travailler la distance : s’inventer un chez-soi de travail », Sociologie du travail, vol. 62, n° 4.</p>
 <p>Levoin, X. et Louessard, B. (2019). « Le déplacement de l’incertitude au cœur de la (re)configuration d’une filière. Le cas de la fiction sur YouTube », Réseaux, vol. 213, no. 1, p. 83-110.</p>
