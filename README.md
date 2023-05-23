@@ -14,7 +14,7 @@
 <p>Letourneux, F. (2020). « Travailler la distance : s’inventer un chez-soi de travail », Sociologie du travail, vol. 62, n° 4.</p>
 <p>Levoin, X. et Louessard, B. (2019). « Le déplacement de l’incertitude au cœur de la (re)configuration d’une filière. Le cas de la fiction sur YouTube », Réseaux, vol. 213, no. 1, p. 83-110.</p>
 <p>Lhuilier, D. (2005). « Le « sale boulot » », Travailler, vol. 14, no. 2, 2005, pp. 73-98.</p>
-<p>Loriol, M. & Leroux, N. (2015). Le travail passionné: L'engagement artistique, sportif ou politique. Érès. https://doi.org/10.3917/eres.lorio.2015.01</p>
+<p>Loriol, M. & Leroux, N. (2015). Le travail passionné: L'engagement artistique, sportif ou politique. Érès.</p>
 <p>Mensitieri, G. (2018). Le plus beau métier du monde, La Découverte, 350 pages.</p>
 <p>Ramirez, D. (2014). « Twitch Plays Pokemon: A Case Study in Big G Games », DiGRA.</p>
 <p>Sjöblom, M. et Hamari, J. (2017). « Why do people watch others play video games? An empirical study on the motivations of Twitch users », Computers in Human Behavior, vol. 75, p. 985-996.</p>
