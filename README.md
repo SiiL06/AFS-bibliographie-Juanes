@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Bibliographie Pint Of Science 2023</h1>
+<h1>Bibliographie AFS 2023 Juanes</h1>
 <p>Arborio, A-M. (2001). Un Personnel invisible. Les aides-soignantes à l’hôpital, Anthropos.</p>
 <p>Beuscart, J. (2004). « Le devenir des innovations non marchandes sur l’Internet : une étude des modèles économiques des webradios », Réseaux, n°125, pp. 55-79.</p>
 <p>Bidet, A. (2011). L’engagement dans le travail: Qu’est-ce que le vrai boulot ?. Presses Universitaires de France.</p>
