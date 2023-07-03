@@ -3,7 +3,7 @@
 <h1>Bibliographie AFS 2023 Juanes</h1>
 <p>Beaudouin, V. (2021). Chapitre 8. Collectifs d’amateurs en ligne : produire de la connaissance et du lien social. Dans : Olivier Martin éd., Les liens sociaux numériques (pp. 179-197). Paris: Armand Colin.</p>
 <p>Beuscart, J. (2004). « Le devenir des innovations non marchandes sur l’Internet : une étude des modèles économiques des webradios », Réseaux, n°125, pp. 55-79.</p>
-<p>Beuscart, J., Dagiral, É. & Parasie, S. (2019). Sociologie d'internet. Armand Colin, 240 pages</p>
+<p>Beuscart, J., Dagiral, É. et Parasie, S. (2019). Sociologie d'internet. Armand Colin, 240 pages</p>
 <p>Bidet, A. (2011). L’engagement dans le travail: Qu’est-ce que le vrai boulot ?. Presses Universitaires de France.</p>
 <p>Coavoux, S. et Roques, N. (2020). « Une profession de l’authenticité », Reseaux, vol. N° 224, n°6, p. 169-196.</p>
 <p>Cocq, M. (2018). « Constitution et exploitation du capital communautaire », La nouvelle revue du travail, n°13.</p>
@@ -16,7 +16,7 @@
 sociales, Paris, Armand Colin, 288 pages.</p>
 <p>Glatt, Z. (2021). « We’re all told not to put our eggs in one basket: uncertainty, precarity and cross-platform labor in the online video influencer industry », International Journal of Communication, vol. 16, pp. 1‑19.
 </p>
-<p>Smyrnaios, N., et Marty, E. (2017). « Profession « nettoyeur du net ». De la modération des commentaires sur les sites d’information français », Réseaux, vol. 205, no. 5, p. 57-90.</p>
+<p>Smyrnaios, N., et Marty, E. (2017). « Profession « nettoyeur du net ». De la modération des commentaires sur les sites d’information français », Réseaux, vol. 205, no. 5, pp. 57-90.</p>
 </p>
 </body>
 </html>
