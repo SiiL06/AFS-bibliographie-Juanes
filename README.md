@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Bibliographie AFS 2023 Juanes</h1>
+<h1>Bibliographie Grenoble 2024 Juanes</h1>
 <p>Beaudouin, V. (2021). Chapitre 8. Collectifs d’amateurs en ligne : produire de la connaissance et du lien social. Dans : Olivier Martin éd., Les liens sociaux numériques (pp. 179-197). Paris: Armand Colin.</p>
 <p>Beuscart, J. (2004). « Le devenir des innovations non marchandes sur l’Internet : une étude des modèles économiques des webradios », Réseaux, n°125, pp. 55-79.</p>
 <p>Beuscart, J., Dagiral, É. et Parasie, S. (2019). Sociologie d'internet. Armand Colin, 240 pages</p>
