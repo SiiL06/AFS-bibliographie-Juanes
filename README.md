@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Bibliographie Grenoble 2024 Juanes</h1>
+<h1>Bibliographie Cours Socio-numérique 2025 Juanes</h1>
 <p> BEUSCART, J. & CREPEL, M. (2014), Chapitre 10: Plateformes d’auto-publication artistique en ligne : quatre figures de l’engagement dans le web 2.0. Dans : LIZE, W., NAUDIER, D. & SOFIO, S. (dir.), Les stratèges de la notoriété, Intermédiaires et production de la valeur dans les univers artistiques, Editions des Archives Contemporaines, p.165 - 184.</p>
 <p>BIDET, A. (2008), « La genèse des valeurs : une affaire d’enquête », Tracés. Revue de Sciences humaines, 15, p. 217-228.</p>
 <p>BIDET, A. (2011), L’engagement dans le travail. Qu’est-ce que le vrai boulot ?, Paris, Puf, «  Le lien social », 416 p.</p>
